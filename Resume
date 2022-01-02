@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+  
+<head>
+  <title>JS Bin</title>
+</head>
+  
+<body>
+  <div class="header">
+    <h1>Kassandra Eam </h1>
+    <p>Minneapolis, MN 55454 | (763)-210-8275 | kassandraeam@gmail.com</p>
+  </div>
+    
+    <h5>SUMMARY OF QUALIFICATIONS</h5>
+      <hr>
+        <ul>
+          <li>Passion for representing and engaging diverse communities in Engineering.</li>
+          <li>Excitement for problem solving utilizing analytical skills for a positive world impact.</li>
+          <li>Obtained strong leadership skills by working with and training sales associates.</li>
+          <li>Possess excellent verbal and written skills, personable and friendly.</li>
+          <li>Strong ability to multitask and work well under pressure.</li>
+        </ul>
+ 
+  
+  
+  <h5>EDUCATION</h5>
+  <hr>
+    <div class="education">
+      <ul>
+       
+        <li>St. Cloud State University</li>
+        <h5>Bachelor of Mechanical Engineering (Expected Fall 2025)</h5>
+      </ul>
+  
+  <div class="experience">
+    
+  
+    <h5>EXPERIENCE</h5>
+    <hr>
+    
+    
+    
+    <h4>Information Technology Services student worker, MCTC</h4>
+    <h6>May 2017-December 2017</h6>
+    <ul>
+      <li>Assist staff, faculty and students with technology issues.</li>
+      <li>Onsite experience with troubleshooting issues with hardware or software.</li>
+      <li>Assist clients who need help with their school ID or email.</li>
+      <li>Ability to lead delegate tickets to maximize efficiency.</li>
+    </ul>
+      </div>
+      
+      <h4>Retail Merchandiser, The Gap</h4>
+      <h6>Sepetember 2013-December 2019</h6>
+       <ul>
+         <li>Customer service and inventory auditing.</li>
+       </ul>
+      
+      <h4>Functional Game Tester</h4>
+      <h6>October 2020-Present</h6>
+      <ul>
+        <li>Verify functionality, performance, and data content within the games.</li>
+        <li>Test hardware and software compatibility.</li>
+        <li>Record and document bugs in Jira.</li>
+      </ul>
+      
+     <div class="skills">
+       <hr>
+       <h4>SKILLS AND INTERESTS</h4>
+       <hr>
+       <p><em>Skills:</em> Experienced with Microsoft Suite, Photoshop, Jira, Solidworks. Leadership qualities, ability to work well under pressure, dedicated to fostering positive, diverse working environments.</p>
+       
+       <p><em>Interests:</em> Aerospace Engineering, Mechanical Engineering, LGBT and POC justice and activism.</p>
+
+     </div>
+    
+</body>
+</html>
