@@ -1,0 +1,67 @@
+.header {
+    text-align: center;
+    border: 2px solid black;
+  }
+  
+  body {
+    background-image: linear-gradient(#ffffff, #6b6b6b);
+    margin: 10% 20%;
+  }
+  
+  .image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+  }
+ 
+  main {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    text-align: justify;
+  }
+
+  footer {
+    text-align: center;
+  }
+
+  .summary h5 {
+    font-size: 20px;
+    border: 1px dotted black;
+  }
+
+  .education h5 {
+    font-size: 20px;
+    border: 1px dotted black;
+  }
+
+  .experience h5 {
+    font-size: 20px;
+    border: 1px dotted black;
+  }
+
+  .skills h5 {
+    font-size: 20px;
+    border: 1px dotted black;
+  }
+
+  p:hover {
+    background-color: rgb(255, 255, 255);
+  }
+
+  ul:hover {
+    background-color: rgb(255, 255, 255);
+  }
+
+  .header {
+    background-image: url("https://i.pinimg.com/originals/6f/0e/92/6f0e92c465b1c44e6be1074871be7726.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 200px;
+    color: white;
+    text-align: center;
+    padding-top: 6%;
+  }
+  
+  
+ 
