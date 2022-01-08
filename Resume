@@ -2,77 +2,95 @@
 <html>
   
 <head>
-  <title>JS Bin</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device">
+  <title>Kassandra Eam's Resume</title>
+  <link rel="stylesheet" href="style.css"/>
 </head>
   
 <body>
+  
+<header>
   <div class="header">
     <h1>Kassandra Eam </h1>
-    <p>Minneapolis, MN 55454 | (763)-210-8275 | kassandraeam@gmail.com</p>
+    <h5>Minneapolis, MN 55454 | (763)-210-8275 | kassandraeam@gmail.com</h5>
+    <div class='test'>
+
+    </div>
   </div>
-    
+</header>
+  
+<main>
+
+  <div class="summary">
     <h5>SUMMARY OF QUALIFICATIONS</h5>
-      <hr>
-        <ul>
-          <li>Passion for representing and engaging diverse communities in Engineering.</li>
-          <li>Excitement for problem solving utilizing analytical skills for a positive world impact.</li>
-          <li>Obtained strong leadership skills by working with and training sales associates.</li>
-          <li>Possess excellent verbal and written skills, personable and friendly.</li>
-          <li>Strong ability to multitask and work well under pressure.</li>
-        </ul>
- 
+      
+          <ul>
+            <li>Passion for representing and engaging diverse communities in Engineering.</li>
+            <li>Excitement for problem solving utilizing analytical skills for a positive world impact.</li>
+            <li>Obtained strong leadership skills by working with and training sales associates.</li>
+            <li>Possess excellent verbal and written skills, personable and friendly.</li>
+            <li>Strong ability to multitask and work well under pressure.</li>
+          </ul>
+  </div>
   
-  
-  <h5>EDUCATION</h5>
-  <hr>
-    <div class="education">
-      <ul>
-       
-        <li>St. Cloud State University</li>
-        <h5>Bachelor of Mechanical Engineering (Expected Fall 2025)</h5>
-      </ul>
-  
+  <div class="education">
+    <h5>EDUCATION</h5>
+    <h4>St. Cloud State University</h4>
+          <ul>
+            <li>Bachelor of Mechanical Engineering (Expected Fall 2025, 40 credits left.)</li>
+          </ul>
+  </div>
+
   <div class="experience">
-    
-  
     <h5>EXPERIENCE</h5>
-    <hr>
+
+      
     
-    
-    
-    <h4>Information Technology Services student worker, MCTC</h4>
-    <h6>May 2017-December 2017</h6>
-    <ul>
-      <li>Assist staff, faculty and students with technology issues.</li>
-      <li>Onsite experience with troubleshooting issues with hardware or software.</li>
-      <li>Assist clients who need help with their school ID or email.</li>
-      <li>Ability to lead delegate tickets to maximize efficiency.</li>
-    </ul>
-      </div>
+      <h4>Information Technology Services student worker, MCTC</h4>
+      <h6>May 2017-December 2017</h6>
+          <ul>
+            <li>Assist staff, faculty and students with technology issues.</li>
+            <li>Onsite experience with troubleshooting issues with hardware or software.</li>
+            <li>Assist clients who need help with their school ID or email.</li>
+            <li>Ability to lead delegate tickets to maximize efficiency.</li>
+          </ul>
+  
       
       <h4>Retail Merchandiser, The Gap</h4>
       <h6>Sepetember 2013-December 2019</h6>
-       <ul>
-         <li>Customer service and inventory auditing.</li>
-       </ul>
+         <ul>
+           <li>Customer service and inventory auditing.</li>
+        </ul>
       
-      <h4>Functional Game Tester</h4>
+      <h4>Functional Game Tester, Activision</h4>
       <h6>October 2020-Present</h6>
-      <ul>
-        <li>Verify functionality, performance, and data content within the games.</li>
-        <li>Test hardware and software compatibility.</li>
-        <li>Record and document bugs in Jira.</li>
-      </ul>
-      
-     <div class="skills">
-       <hr>
-       <h4>SKILLS AND INTERESTS</h4>
-       <hr>
-       <p><em>Skills:</em> Experienced with Microsoft Suite, Photoshop, Jira, Solidworks. Leadership qualities, ability to work well under pressure, dedicated to fostering positive, diverse working environments.</p>
-       
-       <p><em>Interests:</em> Aerospace Engineering, Mechanical Engineering, LGBT and POC justice and activism.</p>
+          <ul>
+            <li>Verify functionality, performance, and data content within the games.</li>
+            <li>Test hardware and software compatibility.</li>
+            <li>Record and document bugs in Jira.</li>
+          </ul>
+  </div>   
 
-     </div>
+      
+
+  <div class="skills">
+      <h5>SKILLS AND INTERESTS</h5>
+      
+        
+   <div class="hover">
+      <p>
+        <em>Skills:</em> Experienced with Microsoft Suite, Photoshop, Jira, Solidworks. Leadership qualities, ability to work well under pressure, dedicated to fostering positive, diverse working environments. <br>
+        <em>Interests:</em> Aerospace Engineering, Mechanical Engineering, Visual Novel development, LGBT and POC justice and activism, travelling, and cats (specifically my parent's cat, Freddy!)
+      </p>
+    </div>
+   </div>
+<br><br><br><br>
+
+</main>
     
+<footer>  
+    <img src="https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F47%2F2020%2F08%2F02%2Frussian-blue-cat-175701659-2000.jpg" height=300 width=400 alt="A picture of a Russian Blue cat.">
+</footer>
 </body>
 </html>
